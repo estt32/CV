@@ -320,6 +320,7 @@ footer {
 .img3{
     left: 0;
     overflow: hidden;
-    
+    position:absolute;
+    margin-bottom: 6%;
     top: 0;
 }
