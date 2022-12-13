@@ -8,20 +8,20 @@ p{
 }
 #header {
     position: fixed;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    height: 80px;
+    top: 0 ;
+    left: 0 ;
+    right: 0 ;
+    height: 80 ;
 }
 .header{
     background: #e5dcca66;
     width: 100%;
-    border-bottom: 5px #473144 solid;
+    border-bottom: 5  #473144 solid;
 }
 .flex-container {
     display: flex;
-    left: 0px;
-    right: 0px;
+    left: 0 ;
+    right: 0 ;
     margin-left: 50%;
     
   }
@@ -30,11 +30,11 @@ p{
     font-weight: bold;
     color: #473144;
     width: 100%;
-    margin: 10px;
+    margin: 10 ;
     text-align: center;
-    line-height: 15px;
-    font-size: 20px;
-    margin-top: 85px;
+    line-height: 15 ;
+    font-size: 20 ;
+    margin-top: 85 ;
     padding:2%;
   }
   .flex-item1:hover{
@@ -44,11 +44,11 @@ p{
     background-color:#473144;
     
     width: 100%;
-    margin: 10px;
+    margin: 10 ;
     text-align: center;
-    line-height: 15px;
-    font-size: 20px;
-    margin-top: 85px;
+    line-height: 15 ;
+    font-size: 20 ;
+    margin-top: 85 ;
     padding:2%;
   }
 
@@ -64,17 +64,17 @@ background: #473144;
     margin-top: 0%;
     }
 .header .content .p1{
-top:1px;
+top:1 ;
 color:#CCB69B;
-font-size: 32px;
+font-size: 32 ;
 margin-left: 6%;
 display: inline;
 font-weight:540;
 }
 .header .content .p2{
     color:#ECE2D0;
-    font-size: 20px;
-    margin-top: 2px;
+    font-size: 20 ;
+    margin-top: 2 ;
     margin-left: 4%;
     }
 
@@ -92,7 +92,7 @@ font-weight:540;
     text-align:justify;
     background-color: #CCB69B;
     margin-top: 2%;
-    padding: 10px;
+    padding: 10 ;
     
 }
 
@@ -102,15 +102,15 @@ font-weight:540;
     text-align:justify;
     background-color: #CCB69B;
     margin-top: 3%;
-    padding: 10px;
+    padding: 10 ;
     list-style-image: url("trabajo1.png")
 }
 .contacto{
-    height: 320px;
+    height: 320 ;
     text-align:justify;
     background-color: #CCB69B;
-    margin-top: 40px;
-    padding: 10px;
+    margin-top: 40 ;
+    padding: 10 ;
     width: 80%;
     margin-left:auto;
     margin-right: auto;
@@ -118,11 +118,11 @@ font-weight:540;
 .contacto .titulo1{
     color:#473144;
     text-align: center;
-    border-bottom: 2px #473144 solid;
-    font-size: 45px;
+    border-bottom: 2  #473144 solid;
+    font-size: 45 ;
     font-weight: bold;
-    margin-top: 1px;
-    padding-bottom: 5px;
+    margin-top: 1 ;
+    padding-bottom: 5 ;
 }
 .h{
    display: inline;
@@ -131,35 +131,35 @@ font-weight:540;
 .inform1 .titulo11{
     color:#473144;
     text-align: center;
-    border-bottom: 2px #473144 solid;
-    font-size: 35px;
+    border-bottom: 2  #473144 solid;
+    font-size: 35 ;
     font-weight: bold;
-    margin-top: 1px;
-    padding-bottom: 5px;
+    margin-top: 1 ;
+    padding-bottom: 5 ;
 }
 .inform .titulo1{
     color:#473144;
     text-align: center;
-    border-bottom: 2px #473144 solid;
-    font-size: 35px;
+    border-bottom: 2  #473144 solid;
+    font-size: 35 ;
     font-weight: bold;
-    margin-top: 1px;
-    padding-bottom: 5px;
+    margin-top: 1 ;
+    padding-bottom: 5 ;
 }
 .inform .doble{
     color:#473144;
-    border-bottom: 2px #473144 solid;
-    font-size: 35px;
+    border-bottom: 2  #473144 solid;
+    font-size: 35 ;
     font-weight: bold;
     display:inline;
-    padding-inline: 100px;
-    margin-inline: 100px;
-    margin-right: 50px;
+    padding-inline: 100 ;
+    margin-inline: 100 ;
+    margin-right: 50 ;
 }
 .contacto .pregunta{
     color:#473144;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 25 ;
     margin-left: 2%;
     display:inline;
     
@@ -167,33 +167,33 @@ font-weight:540;
 .contacto .respuesta{
     color:#473144;
     margin-left: 2%;
-    font-size: 25px;
+    font-size: 25 ;
     display:inline;
 }
 .inform .pregunta{
     color:#473144;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 20 ;
     margin-left: 2%;
     display:inline;
 }
 .inform .respuesta{
     color:#473144;
     margin-left: 2%;
-    font-size: 20px;
+    font-size: 20 ;
     display:inline;
 }
 .inform1 .pregunta1{
     color:#473144;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 20 ;
     margin-left: 2%;
     display:inline;
 }
 .inform1 .respuesta1{
     color:#473144;
     margin-left: 2%;
-    font-size: 20px;
+    font-size: 20 ;
     display:inline;
 }
 .inform .img3{
@@ -205,7 +205,7 @@ font-weight:540;
     
     color: #473144;
     margin-left: 2%;
-    font-size: 20px;
+    font-size: 20 ;
     align-content: center;
     align-items: center;
     border-collapse: collapse;
@@ -213,34 +213,34 @@ font-weight:540;
 .inform .tablai{
     
     color: #473144;
-    font-size: 20px;
+    font-size: 20 ;
     border-collapse: collapse;
     display: inline;
-    padding-left: 210px;
-    padding-right: 510px;
+    padding-left: 210 ;
+    padding-right: 510 ;
     margin: 0 auto;
 }
 
 
 .tablaf, tr, th, td{
     color: #473144;
-    font-size: 20px;
+    font-size: 20 ;
     border-collapse: collapse;
     margin-left: 12%;
     text-align: center;
-    padding-left: 21px;
+    padding-left: 21 ;
     /*border: #473144 solid;*/
 }
 th.u{
-    width: 60px;
+    width: 60 ;
 }
 th.f{
-    border-left:80px solid #CCB69B;
+    border-left:80  solid #CCB69B;
 }
 
 td{
-    height: 20px;
-    width: 60px;
+    height: 20 ;
+    width: 60 ;
     background-color:#7a4c4d;
    
 }
@@ -253,7 +253,7 @@ table.linea1{
 ul{
     color:#473144;
     margin-left: 2%;
-    font-size: 20px;
+    font-size: 20 ;
 }
 
 
@@ -271,7 +271,7 @@ ul{
 }
 
 img.icono{
-    width:30px;
+    width:30 ;
     padding: 0.5%;
     margin-bottom: 0%;
 }
@@ -306,15 +306,15 @@ footer {
     width: 100%;
     height: auto;
     background: #00000055;
-    padding-left: 80px;
+    padding-left: 80 ;
 }
 
 #footer {
     position:fixed;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    height: 40px;
+    bottom: 0 ;
+    left: 0 ;
+    right: 0 ;
+    height: 40 ;
 }
 .img3{
     left: 0%;
