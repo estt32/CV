@@ -301,8 +301,7 @@ a.enlace{
 footer {
     
     text-align:left;
-    clear:both;
-    position: absolute;
+    /*clear:both;*/
     bottom: 0;
     width: 100%;
     height: auto;
@@ -311,7 +310,7 @@ footer {
 }
 
 #footer {
-    position: fixed;
+    position:fixed;
     bottom: 0px;
     left: 0px;
     right: 0px;
